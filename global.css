@@ -42,3 +42,13 @@ background-color: #C91417;
 	padding: 6% 0% 0% 0%;
 	font-size: 36px;
 }
+
+#navigation
+{
+	background-color: #000;
+	font-family:Arial, Helvetica, sans-serif;
+	color: #FFF;
+	text-align: center;
+	padding: 3% 0% 3% 0%;
+	
+}
